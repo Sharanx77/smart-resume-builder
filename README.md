@@ -53,6 +53,6 @@ A full-stack, AI-integrated web application designed to help users build, refine
 Bridging the gap between hardware architecture and scalable web applications. Experienced in developing full-stack MERN environments, Python programming, and IoT hardware integrations. 
 
 📫 **Let's Connect:**
-* **Email:** [bsharan20066@gmail.com](mailto:b.sharanabasava2006@gmail.com)
+* **Email:** [b.sharanabasava2006@gmail.com](mailto:b.sharanabasava2006@gmail.com)
 * **LinkedIn:** [B Sharana Basava](https://www.linkedin.com/in/b-sharanabasava/) 
 * **GitHub:** [@Sharanx77](https://github.com/Sharanx77)
