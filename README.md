@@ -54,5 +54,5 @@ Bridging the gap between hardware architecture and scalable web applications. Ex
 
 📫 **Let's Connect:**
 * **Email:** [bsharan20066@gmail.com](mailto:b.sharanabasava2006@gmail.com)
-* **LinkedIn:** [Your LinkedIn Name](https://www.linkedin.com/in/b-sharanabasava/) 
+* **LinkedIn:** [B Sharana Basava](https://www.linkedin.com/in/b-sharanabasava/) 
 * **GitHub:** [@Sharanx77](https://github.com/Sharanx77)
